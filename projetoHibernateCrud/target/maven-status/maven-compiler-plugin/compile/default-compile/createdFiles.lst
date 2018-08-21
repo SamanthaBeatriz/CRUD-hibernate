@@ -1,0 +1,3 @@
+view\App.class
+controller\ClienteJpaDAO.class
+model\Cliente.class
